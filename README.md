@@ -1,2 +1,2 @@
-# finmind_crawler_stock_data
+# finmind-crawler-stock-data
 Using "finmind" to crawl Taiwan stock data
